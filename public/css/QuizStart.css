@@ -1,0 +1,78 @@
+#startQuiz{
+	background-color: #008000 ;
+	color: white;
+	height:80px;
+	width:180px;
+	font-size:40px;
+	margin: auto;
+	position:relative;
+	top:200px;
+	left:80px;
+	border-style:solid;
+	border-color:black;
+}
+#startQuiz:hover{cursor:pointer;}
+.question{
+	font-size:20px;
+	text-align:center;
+	width: 80%;
+	font-family: 'Allerta';
+}
+.optionList{
+	font-size:35px;
+	list-style-type: none;
+	float: left;
+	margin-top:10px;
+	text-align : left;
+	position:relative;
+	left:50px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+input[type = "radio"]{
+	float:left;
+	position:relative;
+	top:5px;
+	right: 10px;
+	height:20px;
+	width:20px;
+}
+.submitAns{
+	float : left;
+	position:relative;
+	left: 100px;
+	height: 30px;
+	width:60px;
+	top:150px;
+}
+.nextQuestion{
+	float:center;
+	position:relative;
+	height:30px;
+	width:60px;
+	right:50px;
+	top:150px;
+	visibility: hidden;
+}
+.rightOrwrong{
+	float:center;
+	position:relative;
+	top:50px;
+	left:100px;
+	font-size:30px;
+	
+}
+.finalScore{
+	float:center;
+	position:relative;
+	top:150px;
+	right:100px;
+	font-size:30px;
+	font-weight:bold;
+	font-family:'Capriola';
+}
+.finalImage{
+	float:center;
+	position:relative;
+	top:100px;
+	left: 100px;
+}

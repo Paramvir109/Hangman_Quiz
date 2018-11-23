@@ -1,0 +1,55 @@
+.difficultyList{
+	list-style-type:none;
+	font-size:35px;
+}
+.difficulty{
+	background-color:#009900;
+	text-align:center;
+	margin-top:20px;
+	width:350px;
+	height:50px;
+	border-style:solid;
+	padding-top:10px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.difficulty:hover{ /*Only that list item affected by hover*/
+	box-shadow: 10px 10px 20px black;
+	cursor:default;
+	
+}
+.word{
+	font-size:80px;
+	text-align:center;
+	position:relative;
+	width: 700px;
+	font-family: 'Basic';
+	top:90px;
+}
+.livesLeft{
+	position:relative;
+	float:right;
+	top:60px;
+	right:70px;
+	font-size:30px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.input{
+	text-align:center;
+	top:150px; /*Why need to do this*/
+	position:relative;
+}
+#getCharacter{
+	height:25px;
+}
+
+.result{
+	position :relative;
+	top:150px;
+	font-size:30px;
+	font-family:'Capriola';
+}
+.img{
+	float:left;
+	left:50px;
+	position:relative;
+}

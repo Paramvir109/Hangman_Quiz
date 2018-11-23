@@ -1,0 +1,76 @@
+body{
+	background:linear-gradient(#e67300, #ffbf80);
+}
+
+#qImg {
+	position:relative;
+	top:100px;
+	left:200px;
+}
+#hangImg{
+	position:relative;
+	top: 100px;
+	right:420px;
+}
+#heading{
+	text-align: center;
+	font-size: 50px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color:white;
+	background-color:#0099cc;
+	padding-bottom:40px;
+	padding-top:20px;
+	box-shadow:2px 0px 50px 5px black inset;
+}
+#twoGames{
+	background-color:rgb(255,185,80) ;
+	height:75px;
+	width:100%;
+}
+#hangmanDiv{
+	height:75px;
+	width:150px;
+	float:left;
+	position:relative;
+	left: 200px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	
+}
+#quizDiv{
+	height:75px;
+	width:150px;
+	float:right;
+	position:relative;
+	right:200px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#imagesPg1{
+	float:left;
+	left:300px;
+	position:relative;
+	top: 150px;
+}
+.pg1img{
+	float:left;
+	height: 100px;
+	width:100px;
+	list-style-type: none;
+	margin-right:100px;
+}
+#play{
+	width:250px;
+	height:80;
+	font-size:40px;
+	position:relative;
+	text-align:center;
+	left:550px;
+	top:150px;
+	float:left;
+	padding:0px 10px 25px 10px;
+	border-style:solid;
+	border-color: #004d00;
+	border-width:5px;
+	color:#330000;
+	text-shadow: 2px 2px 5px red;
+	border-radius:15px;
+}
