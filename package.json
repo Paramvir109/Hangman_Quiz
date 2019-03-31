@@ -1,0 +1,25 @@
+{
+  "name": "mygame",
+  "version": "1.0.0",
+  "description": "A MCQ based quiz game Hangman game with 4 different levels Express is used to serve the folder",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js",
+    "build" : "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paramvir109/Hangman_Quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paramvir109/Hangman_Quiz/issues"
+  },
+  "homepage": "https://github.com/Paramvir109/Hangman_Quiz#readme"
+}
