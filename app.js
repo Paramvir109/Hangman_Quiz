@@ -1,10 +1,11 @@
 const express = require('express');
 
 var app = express();
+const port = process.env.PORT || 3000;
 
 app.use(express.static(__dirname + '/public'));
 
 
-app.listen(3000, () => {
-    console.log('Server is running')
+app.listen(port, () => {
+    console.log(`Server is running on ${port}`)
 });
