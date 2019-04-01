@@ -1,0 +1,67 @@
+[	
+	{
+		"number":"1",
+		"question": "In January of 1996, shortly before the launch of Google, a new search engine was brought into existence. What was this search engine called?",
+		"options":["BackLinks","BackRub","BreakUp","BackUp"],
+		"answer" : "BackRub"
+
+	},
+	{
+		"number":"2",
+		"question": "What is the part of a database that holds only one type of information",
+		"options":["Field","Report","Record","File"],
+		"answer" : "Field"
+
+	},
+	{
+		"number":"3",
+		"question": "The property of a substance to absorb moisture from the air on exposure is called",
+		"options":["Osmosis","Efflorescence","Deliquescence","Desiccation"],
+		"answer" : "Deliquescence"
+
+	},
+	{
+		"number":"4",
+		"question": "India's first atomic reactor was?",
+		"options":["Apsara","Kamini","Zerlina","Dhruva"],
+		"answer" : "Apsara"
+
+	},
+	{
+		"number":"5",
+		"question": "A remedy for all Diseases",
+		"options":["Stoic","Marvel","Recompense","Panacea"],
+		"answer" : "Panacea"
+	},
+	{
+		"number":"6",
+		"question": "Which protocol provides e-mail facility among different hosts?",
+		"options":["FTP","SMTP","TELNET","SNMP"],
+		"answer" : "Panacea"
+	},
+	{
+		"number":"7",
+		"question": "Youngest one to win an Oscar award for Best Actor ",
+		"options":["Nicolas Cage","Richard Dreyfuss","Marlon Brando","Adrien Brody"],
+		"answer" : "Adrien Brody"
+	},
+	{
+		"number":"8",
+		"question": "A schoolboy who cuts classes frequently is",
+		"options":["Defeatist","Sycophant","Truant","Martinet"],
+		"answer" : "Truant"
+	},
+	{
+		"number":"9",
+		"question": "Who built the world's first binary digit computer: Z1?",
+		"options":["Konrad Zuse","Alan Turing","George Boole","Ken Thompson"],
+		"answer" : "Konrad Zuse"
+	},
+	{
+		"number":"10",
+		"question": "In networking terminology UTP means",
+		"options":["Unshielded Twisted pair", "Ubiquitious Teflon port","Uniformly Terminating port",
+			"Unshielded T-connector port"],
+		"answer" : "Unshielded Twisted pair"
+	}
+]
