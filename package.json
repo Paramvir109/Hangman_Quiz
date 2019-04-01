@@ -12,6 +12,9 @@
     "start" : "node app.js",
     "build" : "npm start"
   },
+  "engines" : {
+    "node" : "10.10.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Paramvir109/Hangman_Quiz.git"
