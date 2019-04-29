@@ -32,7 +32,7 @@ body{
 	width:150px;
 	float:left;
 	position:relative;
-	left: 200px;
+	left: 5%;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	
 }
@@ -41,7 +41,7 @@ body{
 	width:150px;
 	float:right;
 	position:relative;
-	right:200px;
+	right:5%;;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 #imagesPg1{
@@ -61,11 +61,7 @@ body{
 	width:250px;
 	height:80;
 	font-size:40px;
-	position:relative;
 	text-align:center;
-	left:550px;
-	top:150px;
-	float:left;
 	padding:0px 10px 25px 10px;
 	border-style:solid;
 	border-color: #004d00;
@@ -73,4 +69,23 @@ body{
 	color:#330000;
 	text-shadow: 2px 2px 5px red;
 	border-radius:15px;
+}
+
+.lower-home {
+	margin-top: 7%;
+	display: flex;
+	justify-content: space-around;
+}
+@media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    /* #hangmanDiv{
+		
+			left: 50px;
+			
+		}
+		#quizDiv{
+		
+			right: 50px;
+			
+		} */
 }
