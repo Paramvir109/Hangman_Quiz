@@ -1,4 +1,4 @@
-##Hangman-Quiz Game
+# Hangman-Quiz Game
 A MCQ based quiz game. Hangman game with 4 different levels. Built on jQuery.
 
 ## Screenshot
